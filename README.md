@@ -1,6 +1,15 @@
 Crowd Management for Crime Detection using AI and ML
 This project aims to leverage the power of artificial intelligence (AI) and machine learning (ML) to enhance crowd management and crime detection. By analyzing real-time data from various sources such as CCTV footage, social media, and public reports, our system can identify unusual patterns and potential criminal activities in large gatherings. The project integrates advanced ML algorithms to detect anomalies and predict possible security threats, enabling prompt and effective responses from law enforcement agencies. Our solution not only improves public safety but also optimizes resource allocation for crowd control and crime prevention efforts. The ultimate goal is to create a safer environment through proactive and intelligent surveillance systems.
 
+Note: This project is developed for academic purposes as part of a college presentation.
+
+Features
+Real-Time Data Analysis: Utilizes live data feeds from CCTV cameras and other sources for instant monitoring.
+Anomaly Detection: Employs machine learning algorithms to identify irregular behavior and potential threats.
+Predictive Analytics: Uses historical data and trends to forecast possible crime hotspots and crowd-related issues.
+Alert System: Sends immediate notifications to relevant authorities upon detecting suspicious activities.
+Resource Optimization: Helps in efficient deployment of security personnel based on data-driven insights.
+
 Feel free to customize this paragraph to better fit your project's specifics and goals.
 
 Crowd Management for Crime Detection using AI and ML
